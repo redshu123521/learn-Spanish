@@ -2,22 +2,24 @@
 ser: soy,eres,es,somos,sois,son
 estar:estoy,estás,está,estamos,estáis,están
 
-trabajar: trabajo,trabajas,trabaja,trabajamos,trabajáis,trabajan
+trabajar(work): trabajo,trabajas,trabaja,trabajamos,trabajáis,trabajan
 
-hablar: hablo,hablas,habla,hablamos,habláis,hablan
+hablar(speak): hablo,hablas,habla,hablamos,habláis,hablan
 
 entender: entiendo,entiendes,entiende,entendemos,entendéis,entienden
 
-saber: sé,sabes,sabe,sabemos,sabéis,saben
+saber(know): sé,sabes,sabe,sabemos,sabéis,saben
 
-querer: quiero,quieres,quiere,queremos,queréis,quieren
+querer(want): quiero,quieres,quiere,queremos,queréis,quieren
 
-pagar: pago,pagas,paga,pagamos,pagáis,pagan
+pagar(pay): pago,pagas,paga,pagamos,pagáis,pagan
 
-llamar: llamo,llamas,llama,llamamos,llamáis,llaman
+llamar(call): llamo,llamas,llama,llamamos,llamáis,llaman
 
-vivir: vivo,vives,vive,vivimos,vivís,viven
+vivir(live): vivo,vives,vive,vivimos,vivís,viven
 
-tener: tengo,tienes,tiene,tenemos,tenéis,tienen
+tener(have): tengo,tienes,tiene,tenemos,tenéis,tienen
 
-necesitar: necesito,necesitas,necesita,necesitamos,necesitáis,necesitan
+necesitar(need): necesito,necesitas,necesita,necesitamos,necesitáis,necesitan
+
+comprar(buy):compro,compras,compra,compramos,compráis,compran
